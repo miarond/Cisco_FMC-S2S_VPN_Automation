@@ -23,7 +23,7 @@ The process of creating Site to Site VPNs in a Firepower Management Controller (
 
 Below is a diagram that depicts the workflow process for creating a Site to Site VPN in FMC, and all of the related objects and steps that are involved.
 
-![Workflow Diagram](/assets/assets/workflow_diagram.png)
+![Workflow Diagram](/assets/workflow_diagram.png)
 
 [Return to ToC](#table-of-contents)
 
