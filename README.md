@@ -1,3 +1,4 @@
+[![published](https://static.production.devnetcloud.com/codeexchange/assets/images/devnet-published.svg)](https://developer.cisco.com/codeexchange/github/repo/miarond/Cisco_FMC-S2S_VPN_Automation)
 # Site to Site VPN Automation
 
 This repository contains a Python script which can be used to create Site to Site VPN Policies (and associated objects) in a Cisco Firepower Management Center (FMC) controller.  It also contains [detailed documentation on the API endpoints](/API_DOCS.md) used by this script to perform these functions.  The FMC controller stores configurations as distinct "objects", each with a Universally Unique IDentifier (UUID), which must be used to identify the object when linking or "relating" it to another object.  In short, several API calls must be made to the FMC in order to collect these UUIDs so that future API payloads can be constructed.
